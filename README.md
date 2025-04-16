@@ -6,4 +6,5 @@
   - 教科書：
     - Chapters 17 & 18 of Hansen, B. E. (2022) *Probability and Statistics for Economists.* Princeton.
     - Chapters 19 ~ 29 of Hansen, B. E. (2022) *Econometrics.* Princeton.
-- なにかあれば **yasu0704xx at gmail.com** まで．
+- Contact: yasu0704xx [at] gmail.com
+- Website: https://yasu0704xx.github.io
