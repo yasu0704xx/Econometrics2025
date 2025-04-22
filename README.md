@@ -8,3 +8,4 @@
     - Chapters 19 ~ 29 of Hansen, B. E. (2022) *Econometrics.* Princeton.
 - Contact: yasu0704xx [at] gmail.com
 - Website: https://yasu0704xx.github.io
+- 昨年度の資料：https://github.com/yasu0704xx/Econometrics2024
