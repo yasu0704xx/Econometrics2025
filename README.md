@@ -9,4 +9,4 @@
 - Contact: yasu0704xx [at] gmail.com
 - Website: https://yasu0704xx.github.io
 - 過去の資料：
-    - 2024年度: https://github.com/yasu0704xx/Econometrics2024
+    - 2024年度: https://github.com/yasu0704xx/Econometrics2024 (Li and Racine, 2007, Chapters 1-11)
