@@ -9,4 +9,4 @@
     - Hansen, B. E. (2022) *Econometrics*. Princeton.
 - Contact: [matsumura.yasuyuki.w85@kyoto-u.jp](mailto:matsumura.yasuyuki.w85@kyoto-u.jp)
 - Past Materials:
-  - Academic Year 2024: [https://github.com/yasu0704xx/Econometrics2024](https://github.com/yasu0704xx/Econometrics2024) (Li and Racine, 2007, Chapters 1–11)
+  - AY2024: [https://github.com/yasu0704xx/Econometrics2024](https://github.com/yasu0704xx/Econometrics2024) (Li and Racine, 2007, Chapters 1–11)
