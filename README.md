@@ -7,6 +7,6 @@
   - Textbooks:
     - Hansen, B. E. (2022) *Probability and Statistics for Economists*. Princeton.
     - Hansen, B. E. (2022) *Econometrics*. Princeton.
-- Contact: [matsumura.yasuyuki.w85@kyoto-u.jp](mailto:matsumura.yasuyuki.w85@kyoto-u.jp)
+- Contact: matsumura.yasuyuki.w85 [at] kyoto-u.jp
 - Past Materials:
   - [AY2024](https://github.com/yasu0704xx/Econometrics2024) (Li and Racine, 2007, Chapters 1–11)
